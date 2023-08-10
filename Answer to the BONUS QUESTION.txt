@@ -1,0 +1,5 @@
+Answer to the BONUS QUESTION:
+
+An alternative technology that can be used to achieve the same backend functionality and might be easier to implement is Django REST framework. Django is a high-level Python web framework that comes with a powerful and flexible built-in framework for building RESTful APIs called Django REST framework.
+
+Django REST framework, a high-level Python framework, offers rapid development with clean syntax, built-in serializers, automatic documentation, and authentication features. Its active community, testing capabilities, and debugging tools contribute to a streamlined API development process, making it a strong alternative for building RESTful APIs alongside Spring Boot.
